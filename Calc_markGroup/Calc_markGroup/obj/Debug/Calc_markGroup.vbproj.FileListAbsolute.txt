@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Calc_markGroup\Calc_markGroup\bin\Debug\Calc_markGroup.exe.config
+C:\Users\USER\source\repos\Calc_markGroup\Calc_markGroup\bin\Debug\Calc_markGroup.exe
+C:\Users\USER\source\repos\Calc_markGroup\Calc_markGroup\bin\Debug\Calc_markGroup.pdb
+C:\Users\USER\source\repos\Calc_markGroup\Calc_markGroup\bin\Debug\Calc_markGroup.xml
+C:\Users\USER\source\repos\Calc_markGroup\Calc_markGroup\obj\Debug\Calc_markGroup.vbproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Calc_markGroup\Calc_markGroup\obj\Debug\Calc_markGroup.vbproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Calc_markGroup\Calc_markGroup\obj\Debug\Calc_markGroup.Form1.resources
+C:\Users\USER\source\repos\Calc_markGroup\Calc_markGroup\obj\Debug\Calc_markGroup.Resources.resources
+C:\Users\USER\source\repos\Calc_markGroup\Calc_markGroup\obj\Debug\Calc_markGroup.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\Calc_markGroup\Calc_markGroup\obj\Debug\Calc_markGroup.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Calc_markGroup\Calc_markGroup\obj\Debug\Calc_markGroup.exe
+C:\Users\USER\source\repos\Calc_markGroup\Calc_markGroup\obj\Debug\Calc_markGroup.xml
+C:\Users\USER\source\repos\Calc_markGroup\Calc_markGroup\obj\Debug\Calc_markGroup.pdb
